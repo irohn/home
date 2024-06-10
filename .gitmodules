@@ -1,3 +1,6 @@
 [submodule "xdg_config/nvim"]
 	path = xdg_config/nvim
 	url = git@github.com:irohn/nvim.git
+[submodule "xdg_config/tmux"]
+	path = xdg_config/tmux
+	url = git@github.com:irohn/tmux.git
